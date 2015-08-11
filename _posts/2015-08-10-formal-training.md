@@ -3,7 +3,7 @@ layout: post
 title: Formal Training
 ---
 
-I think why I enjoy programming is because it's like a big puzzle that you have to solve.  I remember as a child, there were these puzzle books mixed in with all of the magazines and tabloids in the grocery checkout stands.  I was never good at crossword puzzles and word searches were too easy, but the best were the ones that had logic puzzles where you have a grid and you're presented with only a few clues.
+I enjoy programming because it's like a big puzzle that you have to solve.  I remember as a child, there were these puzzle books mixed in with all of the magazines and tabloids in the grocery checkout stands.  I was never good at crossword puzzles and word searches were too easy, but the best were the ones that had logic puzzles where you have a grid and you're presented with only a few clues.
 
 {:.center}
 ![]({{ site.baseurl }}/img/logic_puzzle.png)
