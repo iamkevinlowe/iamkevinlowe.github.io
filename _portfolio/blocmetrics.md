@@ -9,6 +9,10 @@ short-description: BlocMetrics is an analytics service and reporting tool that y
 {:.center}
 ![]({{ site.baseurl }}/img/blocmetrics.png)
 
+[Github](http://github.com/iamkevinlowe/blocmetrics)
+
+[Visit](http://iamkevinlowe-blocmetrics.herokuapp.com)
+
 ## Explanation
 
 In this application I explored creating an API controller and some JavaScript for BlocMetrics to capture client-side events and display them for analytical purposes.

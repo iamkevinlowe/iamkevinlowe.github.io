@@ -9,6 +9,10 @@ short-description: PhotoChamp is a place where people can share their photos and
 {:.center}
 ![]({{ site.baseurl }}/img/photochamp.png)
 
+[Github](http://github.com/iamkevinlowe/photochamp)
+
+[Visit](http://photocha.mp)
+
 ## Explanation
 
 I created PhotoChamp with the knowledge that I had gained using the Rails framework from building my previous projects along with the help from my mentor at [Bloc](http://bloc.io).

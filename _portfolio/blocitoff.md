@@ -9,6 +9,10 @@ short-description: Build a self-destructing to-do list application.
 {:.center}
 ![]({{ site.baseurl }}/img/blocitoff.png)
 
+[Github](http://github.com/iamkevinlowe/blocitoff)
+
+[Visit](http://iamkevinlowe-blocitoff.herokuapp.com)
+
 ## Explanation
 
 The second Rails project taught by Bloc.  This further developed how Rails applications are built.

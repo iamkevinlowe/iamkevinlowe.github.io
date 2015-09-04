@@ -9,6 +9,10 @@ short-description: Bloccit is a Reddit replica where people can post, vote on, s
 {:.center}
 ![]({{ site.baseurl }}/img/bloccit.png)
 
+[Github](http://github.com/iamkevinlowe/bloccit)
+
+[Visit](http://iamkevinlowe-bloccit.herokuapp.com)
+
 ## Explanation
 
 The first Rails project that I built with my mentor at [Bloc](http://bloc.io).

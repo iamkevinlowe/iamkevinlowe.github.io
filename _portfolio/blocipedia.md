@@ -9,6 +9,10 @@ short-description: Build a production quality SaaS app that allows users to crea
 {:.center}
 ![]({{ site.baseurl }}/img/blocipedia.png)
 
+[Github](http://github.com/iamkevinlowe/blocipedia)
+
+[Visit](http://iamkevinlowe-blocipedia.herokuapp.com)
+
 ## Explanation
 
 Building a replica of something we all know is a great way to understand what happens behind what the user sees on their screen.  Blocipedia allows users to create their own wikis.
