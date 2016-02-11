@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BlocMetrics
+title: Blocmetrics
 thumbnail-path: "img/blocmetrics.png"
 short-description: BlocMetrics is an analytics service and reporting tool that you can use with web apps to track user activity and report results.
 
